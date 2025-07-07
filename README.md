@@ -46,7 +46,7 @@ This project analyzes messy healthcare data and transforms it into an insightful
 
 ## Dashboard Screenshot
 
-![Healthcare Dashboard](./Healthcare Performance Dashboard.png)
+![Healthcare Dashboard](./Healthcare%20Performance%20Dashboard.xlsx)
 
 ## Acknowledgement
 
