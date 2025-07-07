@@ -6,7 +6,7 @@ Healthcare Data Analysis & Dashboard (Excel Project)
 This project analyzes messy healthcare data and transforms it into an insightful Excel dashboard using Power Query, Pivot Tables, and Slicers.
 
 ## Key Highlights
-
+ 
 - Total Patient Visits KPI
 - Total Billing Amount KPI
 - Average Billing Per Visit KPI
@@ -46,7 +46,7 @@ This project analyzes messy healthcare data and transforms it into an insightful
 
 ## Dashboard Screenshot
 
-![Healthcare Dashboard](./Healthcare Performance Dashboard.xlsx)
+![Healthcare Dashboard](./Healthcare Performance Dashboard.png)
 
 ## Acknowledgement
 
