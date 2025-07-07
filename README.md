@@ -32,7 +32,7 @@ This project analyzes messy healthcare data and transforms it into an insightful
 
 ## How to Use
 
-1. Download and open the Excel file (`Healthcare Performance Data.xlsx`)
+1. Download and open the Excel file (./Healthcare%20Performance %20Data.xlsx)
 2. Explore the dashboard on the first sheet
 3. Use slicers on the left to filter by doctor, department, or visit type
 4. Hover over charts for detailed metrics
